@@ -26,4 +26,6 @@ Next solder on the two RJ12 jacks.  For the LED's, I first insert them in the PC
 
 If built on female headers, print the files in the "tall" directory.  Make sure to print three buttons.  If soldering directly to the board spaced 3mm above it, use the case file in the "short" directory.  Assemble with two M2.5x10mm screws.
 
+![devkit-smd-tall-designspark](../docs/devkit-smd-tall-designspark.png)
+
 ![devkit-smd-designspark](../docs/devkit-smd-designspark.png)
