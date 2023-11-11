@@ -1,8 +1,8 @@
-After building a few of mozzwald's original Fujinet for ADAM boards, I decided I wanted to create a new SMD version that was a bit quicker to assemble for folks building them in quantity, but still sticking with the ESP Devkit board and larger 0805 sized components for the DIY crowd. Both boards are single sided for easy assembly, with the only through hole parts being the RJ12 jack(s), LED's, and the devkit board itself. In the end I ended up with two different designs, one I'm calling the Devkit SMD and the Devkit Mini.
+After building a few of mozzwald's original [FujiNet](https://fujinet.online/fujinet/) for [Coleco ADAM](https://fujinet.online/fujinet/#ColecoADAM) boards, I decided I wanted to create a new SMD version that was a bit quicker to assemble for folks building them in quantity, but still sticking with the ESP Devkit board and larger 0805 sized components for the DIY crowd. Both boards are single sided for easy assembly, with the only through hole parts being the RJ12 jack(s), LED's, and the devkit board itself. In the end I ended up with two different designs, one I'm calling the Devkit SMD and the other the Devkit Mini.
 
 # Devkit SMD
 
-Similar to original design, this one offers two ADAMNet ports to daisy chain other devices, but instead of a MicroSD slot, now offers a full size SD card.
+Similar to the original design, this one offers two ADAMNet ports to daisy chain other devices, but instead of a microSD slot, now offers a full size SD card.
 
 ![devkit-smd](docs/devkit-smd.jpg)
 
@@ -14,13 +14,15 @@ See the [Devkit SMD page](fujinet-adam-devkit-smd/README.md) for BOM and assembl
 
 # Devkit Mini
 
-This was an exercise in can I make a full Fujinet fit in the space of the devkit PCB. For that I had to go back to a Micro SD slot and it only supports one ADAMNet port.
+This was an exercise in can I make a full Fujinet fit in the space of the devkit PCB. For that I had to go back to a microSD slot and it only supports one ADAMNet port.
 
 ![devkit-mini](docs/devkit-mini.jpg)
+
+![devkit-mini-esp32](docs/devkit-mini-esp32.JPG)
 
 See the [Devkit Mini page](fujinet-adam-devkit-mini/README.md) for BOM and assembly instructions.
 
 # Getting a Bare Board or Assembled Unit
 
-
+Any extras I have available will be in my [Tindie](https://www.tindie.com/stores/tersteeg/) store. I don't ship outside the US currently, but gerber files are available for both boards if you want to order your own from your favorite PCB fab like JLCPCB or PCBWay.
 

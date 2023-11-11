@@ -4,7 +4,7 @@
 
 # BOM
 
-There's an interactive BOM here, I find them super useful when placing the SMD parts. 
+There's an interactive BOM [here](https://djtersteegc.github.io/fujinet-adam-hardware/ibom-devkit-mini.html), I find them super useful when placing the SMD parts. 
 
 I buy pretty much everthing from AliExpress suppliers with the exception of the tantalum capacitors (whatever is on clearance at Newark) and the ESP32 board (cheaper shipped from Amazon).
 
