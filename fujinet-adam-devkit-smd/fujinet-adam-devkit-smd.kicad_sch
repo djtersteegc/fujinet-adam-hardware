@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "Fujinet ADAM DevKit Mini")
-    (date "2023-10-28")
+    (title "Fujinet ADAM DevKit SMD")
+    (date "2023-11-11")
     (rev "1.0")
     (company "Chris Tersteeg")
   )
@@ -1885,7 +1885,7 @@
     )
     (pin "1" (uuid 5d89fab1-1785-48ef-add8-b263ad187a61))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR09") (unit 1)
         )
@@ -1911,7 +1911,7 @@
     (pin "1" (uuid 9257beae-fb84-4422-b8a5-e12142b21b0d))
     (pin "2" (uuid c94174e6-881f-457e-b65b-14f7283e41c4))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R17") (unit 1)
         )
@@ -1936,7 +1936,7 @@
     )
     (pin "1" (uuid 1183fc98-8f18-4734-9fd9-0350de232e64))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR05") (unit 1)
         )
@@ -1962,7 +1962,7 @@
     (pin "1" (uuid bfe7b030-7639-414e-8782-cc79830952ce))
     (pin "2" (uuid d510dc41-0f78-4950-8e4c-273346f86cdf))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R16") (unit 1)
         )
@@ -1987,7 +1987,7 @@
     )
     (pin "1" (uuid 7e9b642c-6b22-4c4d-b7c0-55c28e2afa7f))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR010") (unit 1)
         )
@@ -2017,7 +2017,7 @@
     (pin "5" (uuid 271ce1c8-c8ee-4921-8b51-265a90928b26))
     (pin "6" (uuid a5fafe80-ed02-45cf-aa60-08ff719895ba))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "J1") (unit 1)
         )
@@ -2042,7 +2042,7 @@
     )
     (pin "1" (uuid 2ebf58da-c6c6-467a-b53e-85b6d39bc7f0))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR03") (unit 1)
         )
@@ -2067,7 +2067,7 @@
     )
     (pin "1" (uuid fc778af4-6805-4f2f-9d3f-51e484e36260))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR011") (unit 1)
         )
@@ -2092,7 +2092,7 @@
     )
     (pin "1" (uuid 82bf73aa-dc9f-4551-a6e6-d99ac8e167b4))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR022") (unit 1)
         )
@@ -2118,7 +2118,7 @@
     (pin "1" (uuid 37c4c0fb-03b4-4c04-b5d5-e30fcdc9d597))
     (pin "2" (uuid 7234dc81-47f0-4fdf-90c1-de3ae2c6940f))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R11") (unit 1)
         )
@@ -2143,7 +2143,7 @@
     )
     (pin "1" (uuid ae27fb9a-9e8d-4c97-9c98-f8014e81b777))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR02") (unit 1)
         )
@@ -2169,7 +2169,7 @@
     (pin "1" (uuid 89244c6f-4a0f-4560-85e4-dac1d64ab3ba))
     (pin "2" (uuid 05ae9ab2-9bb9-46e7-9991-f626a9de3ce3))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "D4") (unit 1)
         )
@@ -2195,7 +2195,7 @@
     (pin "1" (uuid 12ad3d6e-92ae-4da3-8a92-66d0a3d30084))
     (pin "2" (uuid fcdbc127-5222-42a4-b60e-781f76508b90))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R5") (unit 1)
         )
@@ -2220,7 +2220,7 @@
     )
     (pin "1" (uuid a48d8ca8-dbeb-44be-b9fd-d0f143074a96))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR023") (unit 1)
         )
@@ -2245,7 +2245,7 @@
     )
     (pin "1" (uuid 72241659-ef94-45da-a9f1-8c723d362fd7))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR014") (unit 1)
         )
@@ -2271,7 +2271,7 @@
     (pin "1" (uuid 2e77bfd8-0a80-4de7-b733-cd3586052f09))
     (pin "2" (uuid 05dc2a8b-f39e-44f0-9cb3-4911722be67b))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R21") (unit 1)
         )
@@ -2297,7 +2297,7 @@
     (pin "1" (uuid 9be86fdd-7d9e-4b4a-b7ec-e9fec26e1921))
     (pin "2" (uuid 6b724acc-3bd2-40c8-b352-39c291672428))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R14") (unit 1)
         )
@@ -2323,7 +2323,7 @@
     (pin "1" (uuid 94996ddb-d5fd-4cd0-9849-8bf84da409c8))
     (pin "2" (uuid 07b79088-3533-48c7-bf71-2bd6bcc059a7))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R2") (unit 1)
         )
@@ -2348,7 +2348,7 @@
     )
     (pin "1" (uuid b5fa98af-05ad-4838-b8e5-4a0596b1e3cd))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR08") (unit 1)
         )
@@ -2374,7 +2374,7 @@
     (pin "1" (uuid ace5c286-91c9-4ac4-a883-1b48e332ccf1))
     (pin "2" (uuid f62cdcb0-d653-4993-9d2e-2263e4fb3d0c))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "D1") (unit 1)
         )
@@ -2400,7 +2400,7 @@
     (pin "1" (uuid 73eca148-e66e-49f9-980d-49ef082c9d96))
     (pin "2" (uuid bf31483c-9862-4631-9ad6-5f4c85bbb5f9))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "SW2") (unit 1)
         )
@@ -2425,7 +2425,7 @@
     )
     (pin "1" (uuid be328aba-42a7-4d10-919a-8a22e0dc4bd1))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR017") (unit 1)
         )
@@ -2449,7 +2449,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "H1") (unit 1)
         )
@@ -2474,7 +2474,7 @@
     )
     (pin "1" (uuid 1d0b3138-756c-4414-b769-9ef20c69c802))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR06") (unit 1)
         )
@@ -2499,7 +2499,7 @@
     )
     (pin "1" (uuid c3f181c3-09d3-4a42-be9b-82260f130d46))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR015") (unit 1)
         )
@@ -2525,7 +2525,7 @@
     (pin "1" (uuid 806eba6e-f7c9-4925-a95d-06b1f96896f0))
     (pin "2" (uuid 645e3ad9-2579-4241-8648-fb115fe649c1))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R20") (unit 1)
         )
@@ -2551,7 +2551,7 @@
     (pin "1" (uuid 3e77ef54-09f9-44b7-9a11-025eade62560))
     (pin "2" (uuid ba68068b-b144-4c55-b756-f57593b22bc2))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "C2") (unit 1)
         )
@@ -2577,7 +2577,7 @@
     (pin "1" (uuid a156767a-0482-4132-9afe-41148d2fc88a))
     (pin "2" (uuid d61d0295-7025-4b6d-8f2c-3662ad61b94c))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "D3") (unit 1)
         )
@@ -2603,7 +2603,7 @@
     (pin "1" (uuid 9be564b7-6c37-4f74-a505-de1e490b747d))
     (pin "2" (uuid 73423dc8-d850-429d-97fd-5b71921ebb05))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R10") (unit 1)
         )
@@ -2629,7 +2629,7 @@
     (pin "1" (uuid c8761dc7-bfe5-41e0-8703-06b6c3e62572))
     (pin "2" (uuid dea00b9d-cda3-4377-b8fb-15b2d065cc4a))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R15") (unit 1)
         )
@@ -2654,7 +2654,7 @@
     )
     (pin "1" (uuid 40656453-7ea0-4fdc-a717-5f0fdfbb72a3))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR013") (unit 1)
         )
@@ -2680,7 +2680,7 @@
     (pin "1" (uuid ba00153c-014a-4b9a-9d9b-8a9e55f31ba4))
     (pin "2" (uuid 6bfa1680-8d53-41ae-a106-ce7b34f9b1b5))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R7") (unit 1)
         )
@@ -2705,7 +2705,7 @@
     )
     (pin "1" (uuid c8ac2152-095d-40a7-b937-4942b98b1ea9))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR01") (unit 1)
         )
@@ -2731,7 +2731,7 @@
     (pin "1" (uuid b6e0d33c-6299-486e-af0d-03137f500618))
     (pin "2" (uuid 150c3c43-5fa3-4161-a7ad-571f8ed0a3ba))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "D2") (unit 1)
         )
@@ -2757,7 +2757,7 @@
     (pin "1" (uuid e34473ab-d738-4a2f-bafc-165dcf996d88))
     (pin "2" (uuid 56e47ea9-e82c-47cf-965c-a1bd271a47a9))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R6") (unit 1)
         )
@@ -2784,7 +2784,7 @@
     (pin "2" (uuid b8c7de30-013a-44f1-9703-52c44b3c63d9))
     (pin "3" (uuid e480893e-d7e6-446f-972f-53a8bc102841))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "Q1") (unit 1)
         )
@@ -2810,7 +2810,7 @@
     (pin "1" (uuid 34631818-16f2-45c3-9e44-4eb9db4ffc49))
     (pin "2" (uuid a6fa84c8-b65a-4a87-92da-2dcf21e528b7))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R13") (unit 1)
         )
@@ -2836,7 +2836,7 @@
     (pin "1" (uuid 388c1440-b15b-4dc9-89f4-67f29716a12c))
     (pin "2" (uuid 0c7ea0d4-4116-432d-8327-e27ab1ace844))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "SW3") (unit 1)
         )
@@ -2862,7 +2862,7 @@
     (pin "1" (uuid 659c292a-7d83-4690-a560-e3e387a801fb))
     (pin "2" (uuid 22dc611a-a432-4572-9478-0fa7d53a1bc3))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "C1") (unit 1)
         )
@@ -2888,7 +2888,7 @@
     (pin "1" (uuid 4260d068-bb6b-4ff0-afe5-46cef819ee81))
     (pin "2" (uuid 38214b2d-802d-4ff5-b833-ecc5ced03199))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R3") (unit 1)
         )
@@ -2913,7 +2913,7 @@
     )
     (pin "1" (uuid 36545d39-8a6d-4f82-8ff6-cfe935afa8b6))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR025") (unit 1)
         )
@@ -2950,7 +2950,7 @@
     (pin "8" (uuid 0d8ba5f9-1acf-4cd1-acc9-f190f537ccd4))
     (pin "9" (uuid 162d4ecd-75ac-412d-ab4d-1da22672f164))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "J3") (unit 1)
         )
@@ -2975,7 +2975,7 @@
     )
     (pin "1" (uuid c25fa2fc-d26e-4cf8-aaf5-04d000a0a7df))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR018") (unit 1)
         )
@@ -2999,7 +2999,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "H2") (unit 1)
         )
@@ -3024,7 +3024,7 @@
     )
     (pin "1" (uuid f1b23d22-d6b9-4d37-9dd2-da47a7a6de2f))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR04") (unit 1)
         )
@@ -3049,7 +3049,7 @@
     )
     (pin "1" (uuid ee37ef8e-c6a3-474b-91a6-ad4cd888d81b))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR019") (unit 1)
         )
@@ -3079,7 +3079,7 @@
     (pin "5" (uuid 596fa3b7-9cac-4353-9ff0-3a877a799102))
     (pin "6" (uuid 6e6f5e0e-d701-4ea3-9528-47d4fbc2b933))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "J2") (unit 1)
         )
@@ -3105,7 +3105,7 @@
     (pin "1" (uuid d9ea2ab7-90e4-49cc-b512-4fe68ddd78e3))
     (pin "2" (uuid 35cc5d67-4caf-4bee-993b-147d9d37f779))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R12") (unit 1)
         )
@@ -3131,7 +3131,7 @@
     (pin "1" (uuid aea9facb-75d7-4972-9ad4-6b415803c2d4))
     (pin "2" (uuid a1749f21-b812-480f-a975-6ed8c7d73379))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "SW1") (unit 1)
         )
@@ -3157,7 +3157,7 @@
     (pin "1" (uuid 1fbf7234-ae2b-4671-a7fa-114be94da768))
     (pin "2" (uuid 9beea839-1f25-4a95-8493-6dd8935e5129))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R4") (unit 1)
         )
@@ -3183,7 +3183,7 @@
     (pin "1" (uuid 9948c0b6-bcb0-4478-aaf2-8ba81149c373))
     (pin "2" (uuid 2152def3-a7e9-4eb8-9930-db4a25cb78ad))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R9") (unit 1)
         )
@@ -3208,7 +3208,7 @@
     )
     (pin "1" (uuid 4485f18f-1bf6-4db7-8c78-db4e7be646fb))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR021") (unit 1)
         )
@@ -3234,7 +3234,7 @@
     (pin "1" (uuid 1d239113-b1b6-463a-a059-6358ffc98e88))
     (pin "2" (uuid 21507cbf-7ad8-4e51-9cea-4df2ee5f9660))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R18") (unit 1)
         )
@@ -3260,7 +3260,7 @@
     (pin "1" (uuid efbec5be-b504-499d-a1e9-0635ee72f1bc))
     (pin "2" (uuid adf7090a-ab60-4d40-87cd-9d6c6c163e3c))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "D5") (unit 1)
         )
@@ -3287,7 +3287,7 @@
     (pin "2" (uuid fd7e2d56-ba57-4057-8f31-73ee82384e03))
     (pin "3" (uuid d5cf4593-c93d-4fd6-aa9f-fac9fd65f707))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "Q2") (unit 1)
         )
@@ -3313,7 +3313,7 @@
     (pin "1" (uuid 77357b3c-d785-4083-b9de-68f0f21274de))
     (pin "2" (uuid b3c60c5e-5858-4ffb-9122-16967f3ea6d7))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R19") (unit 1)
         )
@@ -3338,7 +3338,7 @@
     )
     (pin "1" (uuid bc8fff91-ec17-48b1-a9dd-1b03dbbc21bd))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR012") (unit 1)
         )
@@ -3364,7 +3364,7 @@
     (pin "1" (uuid f6461bb6-1b67-448b-9b79-97bacf12af5c))
     (pin "2" (uuid 711ac5e2-7e50-4a1a-a88e-747ebd3cdbe6))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R8") (unit 1)
         )
@@ -3389,7 +3389,7 @@
     )
     (pin "1" (uuid c864767d-c64f-45d9-b906-2438c08b453d))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR016") (unit 1)
         )
@@ -3415,7 +3415,7 @@
     (pin "1" (uuid 274a8e07-056d-44ce-9915-4b6d2376898a))
     (pin "2" (uuid 9bc5e96c-d5b7-44a6-9bb9-28fc8a80dd7f))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "R1") (unit 1)
         )
@@ -3440,7 +3440,7 @@
     )
     (pin "1" (uuid 48a9a040-3e4d-4a25-8c1c-730c46d52493))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR020") (unit 1)
         )
@@ -3454,7 +3454,7 @@
     (property "Reference" "U1" (at 189.23 34.925 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "ESP32-DEVKITC-32U" (at 189.23 37.465 0)
+    (property "Value" "ESP32-DevKitC-VE" (at 189.23 37.465 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "ESP32-DEVKITC-32U:MODULE_ESP32-DEVKITC-32U" (at 189.23 65.405 0)
@@ -3511,7 +3511,7 @@
     (pin "8" (uuid 9837ea6a-ded9-4d13-b248-c5c21941d7bc))
     (pin "9" (uuid 0a856361-ee71-4b98-84ea-e19cba1cef30))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "U1") (unit 1)
         )
@@ -3536,7 +3536,7 @@
     )
     (pin "1" (uuid a134e0ec-6129-4b8b-a182-867fab8b41b3))
     (instances
-      (project "fujinet-adam-devkit-mini"
+      (project "fujinet-adam-devkit-smd"
         (path "/a14e478a-c5bb-4e73-a6aa-14ded6f82b5a"
           (reference "#PWR07") (unit 1)
         )

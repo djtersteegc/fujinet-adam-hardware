@@ -1,4 +1,6 @@
-After building a few of mozzwald's original [FujiNet](https://fujinet.online/fujinet/) for [Coleco ADAM](https://fujinet.online/fujinet/#ColecoADAM) boards, I decided I wanted to create a new SMD version that was a bit quicker to assemble for folks building them in quantity, but still sticking with the ESP Devkit board and larger 0805 sized components for the DIY crowd. Both boards are single sided for easy assembly, with the only through hole parts being the RJ12 jack(s), LED's, and the devkit board itself. In the end I ended up with two different designs, one I'm calling the Devkit SMD and the other the Devkit Mini.
+![fujinet-adam-family](docs/fujinet-adam-family.jpg)
+
+After building a few of [mozzwald's](https://mozzwald.com/) original [FujiNet](https://fujinet.online/fujinet/) for [Coleco ADAM](https://fujinet.online/fujinet/#ColecoADAM) boards, I decided I wanted to create a new SMD version that was a bit quicker to assemble for folks building them in quantity, but still sticking with the ESP32-Devkit-C-VE board and larger 0805 sized components for the DIY crowd. Both boards are single sided for easy assembly, with the only through hole parts being the RJ12 jack(s), LED's, and the devkit board itself. In the end I ended up with two different designs, one I'm calling the Devkit SMD and the other the Devkit Mini.
 
 # Devkit SMD
 
@@ -10,11 +12,13 @@ You can build it in two different configurations, one using 8.5mm female headers
 
 ![devkit-smd-tall-vs-short](docs/devkit-smd-tall-vs-short.jpg)
 
+![devkit-smd-tall-vs-short-cases](docs/devkit-smd-tall-vs-short-cases.jpg)
+
 See the [Devkit SMD page](fujinet-adam-devkit-smd/README.md) for BOM and assembly instructions.
 
 # Devkit Mini
 
-This was an exercise in can I make a full Fujinet fit in the space of the devkit PCB. For that I had to go back to a microSD slot and it only supports one ADAMNet port.
+This was an exercise in can I make a full FujiNet fit in the space of the devkit PCB. For that I had to go back to a microSD slot and it only supports one ADAMNet port.
 
 ![devkit-mini](docs/devkit-mini.JPG)
 

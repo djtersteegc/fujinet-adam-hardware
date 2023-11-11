@@ -3266,7 +3266,7 @@
     (property "Reference" "U1" (at 189.23 34.925 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "ESP32-DEVKITC-32U" (at 189.23 37.465 0)
+    (property "Value" "ESP32-DevKitC-VE" (at 189.23 37.465 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "ESP32-DEVKITC-32U:MODULE_ESP32-DEVKITC-32U" (at 189.23 65.405 0)

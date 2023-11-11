@@ -19,4 +19,4 @@
 "18","SW1","1","ButtonA","Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK",""
 "19","SW2","1","ButtonB","Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK",""
 "20","SW3","1","Safe Reset","Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK",""
-"21","U1","1","ESP32-DEVKITC-32U","ESP32-DEVKITC-32U:MODULE_ESP32-DEVKITC-32U",""
+"21","U1","1","ESP32-DevKitC-VE","ESP32-DEVKITC-32U:MODULE_ESP32-DEVKITC-32U",""
