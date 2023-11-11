@@ -16,9 +16,7 @@ See the [Devkit SMD page](fujinet-adam-devkit-smd/README.md) for BOM and assembl
 
 This was an exercise in can I make a full Fujinet fit in the space of the devkit PCB. For that I had to go back to a microSD slot and it only supports one ADAMNet port.
 
-![devkit-mini](docs/devkit-mini.jpg)
-
-![devkit-mini-esp32](docs/devkit-mini-esp32.JPG)
+![devkit-mini](docs/devkit-mini.JPG)
 
 See the [Devkit Mini page](fujinet-adam-devkit-mini/README.md) for BOM and assembly instructions.
 
