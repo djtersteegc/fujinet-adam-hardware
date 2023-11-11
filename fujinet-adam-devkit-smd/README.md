@@ -8,27 +8,27 @@ C2 is a bulk storage cap for the 5V input from the ADAMNet line.  I speced it at
 
 C1 is to handle inrush and prevent sag and MCU reboots on the 3.3V rail if you are hot swapping your SD card.  Mozzwald's original design went without, so not strictly needed, especially if you don't plan on hot swapping the card.
 
-| Component                         | Qty  | Notes                    | Link                                                         |
-| --------------------------------- | ---- | ------------------------ | ------------------------------------------------------------ |
-| 47uF 10V 3528 Tantalum Capacitor  | 1    | B Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832779546992.html) |
-| 100uF 10V 7343 Tantalum Capacitor | 1    | D Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832782845246.html) |
-| 10K 0805 Resistor                 | 11   |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 1K 0805 Resistor                  | 4    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 2K 0805 Resistor                  | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 4.7K 0805 Resistor                | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 1.2K 0805 Resistor                | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 33R 0805 Resistor                 | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| B140 SMA DO-214 Schottky Diode    | 2    | SS14 also works          | [AliExpress](https://www.aliexpress.us/item/2255800145156429.html) |
-| 3mm LED (Blue)                    | 1    | Bluetooth                | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| 3mm LED (White)                   | 1    | Wifi                     | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| 3mm LED (Orange)                  | 1    | Activity                 | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| Alps SKRK Style Switch            | 3    | 3x4x2mm                  | [AliExpress](https://www.aliexpress.us/item/2255801131587911.html) |
-| MMBT3904 SOT-23                   | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985590487.html) |
-| MMBT3906 SOT-23                   | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985563795.html) |
-| RJ12 Amphenol 54601               | 1    | 95001-6P6C on Ali        | [AliExpress](https://www.aliexpress.us/item/3256802891796239.html) |
-| SD Card TE 2041021                | 1    | Long Body on Ali         | [AliExpress](https://www.aliexpress.us/item/3256805779248826.html) |
-| ESP32-Devkit-C-VE                 | 1    |                          | [Amazon](https://www.amazon.com/dp/B087TNPQCV)               |
-| 2.54mm 19p Female Header          | 2    | "Tall" option build only | [AliExpress](https://www.aliexpress.us/item/2251832484668248.html) |
+| Component                           | Qty  | Notes                    | Link                                                         |
+| ----------------------------------- | ---- | ------------------------ | ------------------------------------------------------------ |
+| 47uF 10V 3528 Tantalum Capacitor    | 1    | B Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832779546992.html) |
+| 100uF 10V 7343 Tantalum Capacitor   | 1    | E Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832782845246.html) |
+| 10K 0805 Resistor                   | 11   |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 1K 0805 Resistor                    | 4    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 2K 0805 Resistor                    | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 4.7K 0805 Resistor                  | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 1.2K 0805 Resistor                  | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 33R 0805 Resistor                   | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| B140 SMA DO-214 Schottky Diode      | 2    | SS14 also works          | [AliExpress](https://www.aliexpress.us/item/2255800145156429.html) |
+| 3mm LED (Blue)                      | 1    | Bluetooth                | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| 3mm LED (White)                     | 1    | Wifi                     | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| 3mm LED (Orange)                    | 1    | Activity                 | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| Alps SKRK Style Switch              | 3    | 3x4x2mm                  | [AliExpress](https://www.aliexpress.us/item/2255801131587911.html) |
+| MMBT3904 SOT-23                     | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985590487.html) |
+| MMBT3906 SOT-23                     | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985563795.html) |
+| RJ12 Amphenol 54601                 | 2    | 95001-6P6C on Ali        | [AliExpress](https://www.aliexpress.us/item/3256802891796239.html) |
+| SD Card TE 2041021                  | 1    | Long Body on Ali         | [AliExpress](https://www.aliexpress.us/item/3256805779248826.html) |
+| ESP32-Devkit-C-VE                   | 1    |                          | [Amazon](https://www.amazon.com/dp/B087TNPQCV)               |
+| 2.54mm 19p 8.5mm Tall Female Header | 2    | "Tall" option build only | [AliExpress](https://www.aliexpress.us/item/2251832484668248.html) |
 
 
 
