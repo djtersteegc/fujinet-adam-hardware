@@ -451,7 +451,7 @@
       (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 5acf4a14-f9cd-4249-9c6a-b5f69a87e443))
     (fp_arc (start 0.6469 8.64) (mid 2.945408 8.849737) (end 5.168 9.472)
       (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 86b287e8-a25c-48f9-b3b1-efd5a1494cbd))
-    (fp_arc (start 6.1679 9.656) (mid 5.659557 9.609613) (end 5.168 9.472)
+    (fp_arc (start 6.1679 9.656) (mid 5.659554 9.609621) (end 5.168 9.472)
       (stroke (width 0.127) (type solid)) (layer "F.SilkS") (tstamp 0fcb5713-6872-413c-ad30-9c0ffa93bad2))
     (fp_poly
       (pts
@@ -2415,8 +2415,8 @@
       (net 13 "/IO23{slash}SPI_MOSI") (pinfunction "IO23") (pintype "bidirectional") (tstamp 0a41700b-c86d-4863-a7ed-7ab533926b86))
     (pad "38" thru_hole circle (at 12.7 22.85 180) (size 1.53 1.53) (drill 1.02) (layers "*.Cu" "*.Mask")
       (net 8 "GND") (pinfunction "GND3") (pintype "power_in") (tstamp 69be51f5-a836-4a0f-92ae-52e6f5382267))
-    (model "C:/Users/cdter/Documents/Kicad/ESP32-DEVKITC-32D/ESP32-DEVKITC-32D.step"
-      (offset (xyz 0 0 3.4))
+    (model "C:/Users/cdter/Documents/Kicad/ESP32-WROOM-32D-Assembly.STEP"
+      (offset (xyz 0 0 2.54))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )

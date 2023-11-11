@@ -455,7 +455,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "fujinet-adam-devkit-smd.step",
+      "step": "fujinet-adam-devkit-smd-3mm-headers.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
