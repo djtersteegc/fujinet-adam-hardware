@@ -39,11 +39,17 @@ I like to program the ESP32 first to ensure I have a good unit before soldering 
 
 # Assembly
 
-Lay down all the SMD components first. 
+Lay down all the SMD components first.
+
+![devkit-mini-smd-only](../docs/devkit-mini-smd-only.jpg) 
 
 Next solder on the RJ12 jack.  For the LED's, I first insert them in the PCB, then the PCB in the case, flip it over and support the case ~1mm off the surface (laying the case across the lip of the lid works well for this) for the LED's to just poke through the top and get a nice reveal. Solder one leg on the LED's, flip it over to check your spacing again, and then solder the other leg.
 
+![devkit-mini-led-install](../docs/devkit-mini-led-install.jpg)
+
 Finally, solder on the devkit board.  I found the cheap PCB/phone vises work well for holding the main PCB while you do this.
+
+![devkit-mini-pcb-vise](../docs/devkit-mini-pcb-vise.jpg)
 
 # Case
 
