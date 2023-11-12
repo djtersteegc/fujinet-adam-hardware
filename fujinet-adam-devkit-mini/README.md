@@ -33,6 +33,10 @@ C1 is to handle inrush and prevent sag and MCU reboots on the 3.3V rail if you a
 | SD Card TE 2041021                | 1    | Long Body on Ali         | [AliExpress](https://www.aliexpress.us/item/3256805779248826.html) |
 | ESP32-Devkit-C-VE                 | 1    |                          | [Amazon](https://www.amazon.com/dp/B087TNPQCV)               |
 
+# Flashing
+
+I like to program the ESP32 first to ensure I have a good unit before soldering them onto the main PCB. Since this uses the same devkit board as the "official" model, you can use the FujiNet firmware flasher available at https://fujinet.online/download/. 
+
 # Assembly
 
 Lay down all the SMD components first. 

@@ -32,6 +32,10 @@ C1 is to handle inrush and prevent sag and MCU reboots on the 3.3V rail if you a
 
 
 
+# Flashing
+
+I like to program the ESP32 first to ensure I have a good unit before soldering them onto the main PCB. Since this uses the same devkit board as the "official" model, you can use the FujiNet firmware flasher available at https://fujinet.online/download/. 
+
 # Assembly
 
 Lay down all the SMD components first.  When complete, your board shoud look like this.
