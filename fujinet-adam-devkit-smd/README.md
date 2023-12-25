@@ -2,7 +2,7 @@
 
 There's an interactive BOM [here](https://djtersteegc.github.io/fujinet-adam-hardware/ibom-devkit-smd.html), I find them super useful when placing the SMD parts. 
 
-I buy pretty much everthing from AliExpress suppliers with the exception of the tantalum capacitors (whatever is on clearance at Newark) and the ESP32 board (cheaper shipped from Amazon). If you are bulding in the "tall" configuration, you will also need some 2.54mm female headers.  I buy the 1x40p models and break when down into two 19 pin headers required by the devkit board.
+I buy pretty much everything from AliExpress suppliers with the exception of the tantalum capacitors (whatever is on clearance at Newark) and the ESP32 board (cheaper shipped from Amazon). If you are bulding in the "tall" configuration, you will also need some 2.54mm female headers.  I buy the 1x40p models and break when down into two 19 pin headers required by the devkit board.
 
 C2 is a bulk storage cap for the 5V input from the ADAMNet line.  I speced it at 100uF, but anything from 22uF and up will probably be fine.  You may not even really need it.
 
