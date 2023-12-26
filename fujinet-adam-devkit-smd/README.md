@@ -57,3 +57,43 @@ If built on female headers, print the files in the "tall" directory.  Make sure 
 ![devkit-smd-tall-designspark](../docs/devkit-smd-tall-designspark.png)
 
 ![devkit-smd-designspark](../docs/devkit-smd-designspark.png)
+
+# PCB Revisions
+
+### Version 1.0
+
+Working, but the second RJ12/ADAMNet connector was incorrectly wired in the schematic and does not work as intended.  I assumed straight through when it should have been reversed, hence the RJ12 cross over cables used on the ADAM. Fortunately, the fix is pretty simple and by luck of the ground planes, you don't even need to remove the RJ12 connector.
+
+These the PCB traces you need to cut (black X's).
+
+![smd-v1.0-rework-cuts](../docs/smd-v1.0-rework-cuts.png)
+
+Three are on the top between the two RJ12 jacks.  I used an Xacto blade. Be careful of the trace immediately above the top one connecting the 3.3V rail of the LED's.  I nicked the one in this example, but it was still connected.  Worst case, you need to add another wire to bodge D2 to D3.
+
+![smd-v1.0-rework-front-cuts](../docs/smd-v1.0-rework-front-cuts.jpg)
+
+Then you need to seperate the Pin 5 (lower right in the photo) on the back from the four ground plane thermal relief connections.
+
+![smd-v1.0-rework-back-cuts](../docs/smd-v1.0-rework-back-cuts.jpg)
+
+Finally you need to connect J2 to the correct pins on J1. 
+
+| J1 - ADAMNet In | J2 - ADAMNet Out |
+| --------------- | ---------------- |
+| 1 (Data)        | 6 (Data)         |
+| 2 (Reset)       | 5 (Reset)        |
+| 3 (GND)         | 4 (GND)          |
+| 4 (GND)         | 3 (GND)          |
+| 5 (GND)         | 2 (GND)          |
+| 6 (5V)          | 1 (5V)           |
+
+Since pin 3 and pin 4 on J2 are alreay connected to ground nothing to do there.  You can connect Pin 2 which is now GND to Pin 4.  The remaining three pins need bodge wires over to J1.  Here's what it should look like completed.
+
+![smd-v1.0-rework-bodges](../docs/smd-v1.0-rework-bodges.jpg)
+
+Check the connections from J1 to J2 and ensure the 5V line in particular it not shorted to GND.  Plug into the Adam to confirm all is now working with the keyboard plugged into the AdamNET Out (left most) port on the Fujinet.
+
+![smd-v1.0-rework-testing](../docs/smd-v1.0-rework-testing.jpg)
+
+### Version 1.1 (Coming Soon...)
+
