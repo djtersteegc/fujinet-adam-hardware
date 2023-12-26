@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.8"
+      "Version": "7.0.9"
     },
-    "CreationDate": "2023-10-30T20:54:43-05:00"
+    "CreationDate": "2023-12-25T18:28:00-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "fujinet-adam-devkit-smd",
       "GUID": "66756a69-6e65-4742-9d61-64616d2d6465",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 57.885,
