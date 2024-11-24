@@ -8,27 +8,28 @@ C2 is a bulk storage cap for the 5V input from the ADAMNet line.  I speced it at
 
 C1 is to handle inrush and prevent sag and MCU reboots on the 3.3V rail if you are hot swapping your SD card.  Mozzwald's original design went without, so not strictly needed, especially if you don't plan on hot swapping the card.
 
-| Component                           | Qty  | Notes                    | Link                                                         |
-| ----------------------------------- | ---- | ------------------------ | ------------------------------------------------------------ |
-| 47uF 10V 3528 Tantalum Capacitor    | 1    | B Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832779546992.html) |
-| 100uF 10V 7343 Tantalum Capacitor   | 1    | E Type Case (or smaller) | [AliExpress](https://www.aliexpress.us/item/2251832782845246.html) |
-| 10K 0805 Resistor                   | 11   |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 1K 0805 Resistor                    | 4    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 2K 0805 Resistor                    | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 4.7K 0805 Resistor                  | 2    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 1.2K 0805 Resistor                  | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| 33R 0805 Resistor                   | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
-| B140 SMA DO-214 Schottky Diode      | 2    | SS14 also works          | [AliExpress](https://www.aliexpress.us/item/2255800145156429.html) |
-| 3mm LED (Blue)                      | 1    | Bluetooth                | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| 3mm LED (White)                     | 1    | Wifi                     | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| 3mm LED (Orange)                    | 1    | Activity                 | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
-| Alps SKRK Style Switch              | 3    | 3x4x2mm                  | [AliExpress](https://www.aliexpress.us/item/2255801131587911.html) |
-| MMBT3904 SOT-23                     | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985590487.html) |
-| MMBT3906 SOT-23                     | 1    |                          | [AliExpress](https://www.aliexpress.us/item/3256802985563795.html) |
-| RJ12 Amphenol 54601                 | 2    | 95001-6P6C on Ali        | [AliExpress](https://www.aliexpress.us/item/3256802891796239.html) |
-| SD Card TE 2041021                  | 1    | Long Body on Ali         | [AliExpress](https://www.aliexpress.us/item/3256805779248826.html) |
-| ESP32-Devkit-C-VE                   | 1    |                          | [Amazon](https://www.amazon.com/dp/B087TNPQCV)               |
-| 2.54mm 19p 8.5mm Tall Female Header | 2    | "Tall" option build only | [AliExpress](https://www.aliexpress.us/item/2251832484668248.html) |
+| Component                           | Qty  | Notes                      | Link                                                         |
+| ----------------------------------- | ---- | -------------------------- | ------------------------------------------------------------ |
+| 47uF 10V 3528 Tantalum Capacitor    | 1    | B Type Case (or smaller)   | [AliExpress](https://www.aliexpress.us/item/2251832779546992.html) |
+| 100uF 10V 7343 Tantalum Capacitor   | 1    | E Type Case (or smaller)   | [AliExpress](https://www.aliexpress.us/item/2251832782845246.html) |
+| 10K 0805 Resistor                   | 11   |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 1K 0805 Resistor                    | 4    |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 2K 0805 Resistor                    | 2    |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 4.7K 0805 Resistor                  | 2    |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 1.2K 0805 Resistor                  | 1    |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| 33R 0805 Resistor                   | 1    |                            | [AliExpress](https://www.aliexpress.us/item/3256801607747550.html) |
+| B140 SMA DO-214 Schottky Diode      | 2    | SS14 also works            | [AliExpress](https://www.aliexpress.us/item/2255800145156429.html) |
+| 3mm LED (Blue)                      | 1    | Bluetooth                  | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| 3mm LED (White)                     | 1    | Wifi                       | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| 3mm LED (Orange)                    | 1    | Activity                   | [AliExpress](https://www.aliexpress.us/item/2255800226600744.html) |
+| Alps SKRK Style Switch              | 3    | 3x4x2mm                    | [AliExpress](https://www.aliexpress.us/item/2255801131587911.html) |
+| MMBT3904 SOT-23                     | 1    |                            | [AliExpress](https://www.aliexpress.us/item/3256802985590487.html) |
+| MMBT3906 SOT-23                     | 1    |                            | [AliExpress](https://www.aliexpress.us/item/3256802985563795.html) |
+| RJ12 Amphenol 54601                 | 2    | 95001-6P6C on Ali          | [AliExpress](https://www.aliexpress.us/item/3256802891796239.html) |
+| SD Card TE 2041021                  | 1    | Long Body on Ali           | [AliExpress](https://www.aliexpress.us/item/3256805779248826.html) |
+| ESP32-Devkit-C-VE                   | 1    |                            | [Amazon](https://www.amazon.com/dp/B087TNPQCV)               |
+| 2.54mm 19p 8.5mm Tall Female Header | 2    | "Tall" option build only   | [AliExpress](https://www.aliexpress.us/item/2251832484668248.html) |
+| SK12D07VG4 Slide Switch             | 1    | Optional power SW for v1.2 | [AliExpress](https://www.aliexpress.us/item/3256806549741426.html) |
 
 
 
@@ -57,6 +58,14 @@ If built on female headers, print the files in the "tall" directory.  Make sure 
 ![devkit-smd-tall-designspark](../docs/devkit-smd-tall-designspark.png)
 
 ![devkit-smd-designspark](../docs/devkit-smd-designspark.png)
+
+PCB version 1.2 adds the ability to install a power switch if you want to disable the Fuji in your ADAMNet chain without unplugging it.
+
+![devkit-smd-power-switch-designspark](../docs/devkit-smd-power-switch-designspark.png)
+
+If you are printing with a multi color AMS enabled printer, you can use the embossed-text STL files to color fill the top text.
+
+![devkit-smd-embossed-text](../docs/devkit-smd-embossed-text.jpg)
 
 # PCB Revisions
 
@@ -95,5 +104,13 @@ Check the connections from J1 to J2 and ensure the 5V line in particular it not 
 
 ![smd-v1.0-rework-testing](../docs/smd-v1.0-rework-testing.jpg)
 
-### Version 1.1 (Coming Soon...)
+### Version 1.1
+
+All good
+
+### Version 1.2
+
+Adds an optional power switch.  If you don't want to install the swtich, bridge the Always On solder jumper.
+
+![devkit-smd-power-switch](../docs/devkit-smd-power-switch.jpg)
 
