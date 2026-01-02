@@ -1,3 +1,7 @@
+# Schematic
+
+https://djtersteegc.github.io/fujinet-adam-hardware/fujinet-adam-devkit-smd-schematic-v1.3.pdf
+
 # BOM
 
 There's an interactive BOM [here](https://djtersteegc.github.io/fujinet-adam-hardware/ibom-devkit-smd.html), I find them super useful when placing the SMD parts. 
@@ -113,4 +117,8 @@ All good
 Adds an optional power switch.  If you don't want to install the swtich, bridge the Always On solder jumper.
 
 ![devkit-smd-power-switch](../docs/devkit-smd-power-switch.jpg)
+
+### Version 1.3
+
+Rotated the LED footprints 90 degrees so the legs bend easier when inserting and removing from the case.
 

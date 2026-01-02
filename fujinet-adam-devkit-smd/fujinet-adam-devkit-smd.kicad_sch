@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Fujinet ADAM DevKit SMD")
-		(date "2024-11-23")
-		(rev "1.2")
+		(date "2025-02-03")
+		(rev "1.3")
 		(company "Chris Tersteeg")
 	)
 	(lib_symbols
@@ -5053,7 +5053,6 @@
 	)
 	(label "IO34"
 		(at 153.035 52.705 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5064,7 +5063,6 @@
 	)
 	(label "IO18{slash}SPI_CLK"
 		(at 227.33 62.865 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5075,7 +5073,6 @@
 	)
 	(label "IO2{slash}LED1"
 		(at 227.33 78.105 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5086,7 +5083,6 @@
 	)
 	(label "IO23{slash}SPI_MOSI"
 		(at 27.94 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5097,7 +5093,6 @@
 	)
 	(label "IO15{slash}TDO"
 		(at 227.33 80.645 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5108,7 +5103,6 @@
 	)
 	(label "IO14{slash}TMS"
 		(at 153.035 70.485 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5119,7 +5113,6 @@
 	)
 	(label "ADAMNET_RESET"
 		(at 101.092 89.662 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5130,7 +5123,6 @@
 	)
 	(label "IO5{slash}SPI_CS"
 		(at 227.33 65.405 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5141,7 +5133,6 @@
 	)
 	(label "IO13{slash}LED3{slash}TCK"
 		(at 87.63 55.245 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5152,7 +5143,6 @@
 	)
 	(label "IO21{slash}ADAMNET_TX"
 		(at 140.335 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5163,7 +5153,6 @@
 	)
 	(label "IO4{slash}LED2"
 		(at 87.63 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5174,7 +5163,6 @@
 	)
 	(label "ADAMNET_DATA"
 		(at 55.88 80.645 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5185,7 +5173,6 @@
 	)
 	(label "ADAMNET_5V"
 		(at 133.35 52.705 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5196,7 +5183,6 @@
 	)
 	(label "IO2{slash}LED1"
 		(at 87.63 43.815 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5207,7 +5193,6 @@
 	)
 	(label "IO14{slash}TMS"
 		(at 227.33 151.765 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5218,7 +5203,6 @@
 	)
 	(label "ADAMNET_DATA"
 		(at 207.01 116.205 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5229,7 +5213,6 @@
 	)
 	(label "ADAMNET_RESET"
 		(at 57.15 83.185 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5240,7 +5223,6 @@
 	)
 	(label "ADAMNET_5V"
 		(at 100.838 79.502 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5251,7 +5233,6 @@
 	)
 	(label "IO5{slash}SPI_CS"
 		(at 27.94 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5262,7 +5243,6 @@
 	)
 	(label "ADAMNET_5V"
 		(at 88.9 181.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5273,7 +5253,6 @@
 	)
 	(label "IO18{slash}SPI_CLK"
 		(at 27.94 147.32 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5284,7 +5263,6 @@
 	)
 	(label "IO21{slash}ADAMNET_TX"
 		(at 227.33 55.245 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5295,7 +5273,6 @@
 	)
 	(label "ADAMNET_5V"
 		(at 53.975 93.345 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5306,7 +5283,6 @@
 	)
 	(label "IO15{slash}TDO"
 		(at 27.94 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5317,7 +5293,6 @@
 	)
 	(label "IO23{slash}SPI_MOSI"
 		(at 227.33 45.085 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5328,7 +5303,6 @@
 	)
 	(label "IO4{slash}LED2"
 		(at 227.33 73.025 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5339,7 +5313,6 @@
 	)
 	(label "ADAMNET_DATA"
 		(at 153.035 60.325 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5350,7 +5323,6 @@
 	)
 	(label "IO19{slash}SPI_MISO"
 		(at 27.94 152.4 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5361,7 +5333,6 @@
 	)
 	(label "ADAMNET_5V"
 		(at 127 75.565 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5372,7 +5343,6 @@
 	)
 	(label "ADAMNET_DATA"
 		(at 101.092 92.202 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5383,7 +5353,6 @@
 	)
 	(label "IO0"
 		(at 227.33 75.565 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5394,7 +5363,6 @@
 	)
 	(label "IO34"
 		(at 232.41 127.635 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5405,7 +5373,6 @@
 	)
 	(label "IO13{slash}LED3{slash}TCK"
 		(at 153.035 78.105 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5416,7 +5383,6 @@
 	)
 	(label "IO0"
 		(at 232.41 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5427,7 +5393,6 @@
 	)
 	(label "ADAMNET_RESET"
 		(at 111.125 67.945 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5438,7 +5403,6 @@
 	)
 	(label "IO19{slash}SPI_MISO"
 		(at 227.33 60.325 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
